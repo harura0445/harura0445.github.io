@@ -4,7 +4,7 @@ published: 2026-03-11
 description: "在一个吵吵闹闹的现在，去感触一份纯洁的纯爱故事"
 tags: ["轻小说", "点评"]
 category: 书、影、音
-draft: true
+draft: false
 ---
 刚刚阅读到第二卷，深有感触。
 
